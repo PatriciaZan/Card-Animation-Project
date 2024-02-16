@@ -9,4 +9,4 @@
 **ABOUT THIS PROJECT**
 
 Follow along from the YouTube channel [**Web UI Tutorials**](https://www.youtube.com/watch?v=45mnmy2JUl0) 
-With personal changes to images, with the season's themes, Winter, Spring, Summer and Autumn.
+With personal changes to images, The season's themes, Winter, Spring, Summer and Autumn.
